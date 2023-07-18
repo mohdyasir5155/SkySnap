@@ -5,7 +5,7 @@
 <h1 align=center>🌦️SkySnap🌦️</h1>
 
 # Project Title
-SkySnap: Your Personal Weather Expert 
+SkySnap: Your Personal Weather Expert <br>
 (https://mohdyasir5155.github.io/SkySnap-Ultimate-Weather-Companion)
 
 Welcome to SkySnap, the premier weather website that combines the power of JavaScript and the OpenWeather API to provide you with the most accurate and up-to-date weather information. Say goodbye to uncertain forecasts and hello to a seamless weather experience like never before.
