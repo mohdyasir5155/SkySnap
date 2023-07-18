@@ -2,7 +2,7 @@
 ![Screenshot 2023-07-18 164508](https://github.com/mohdyasir5155/SkySnap/assets/131906472/f4168882-3642-418b-ab44-9fc8c664c43b)
 
 
-<h1 align=center>*SkySnap*</h1>
+<h1 align=center>🌦️SkySnap🌦️</h1>
 
 # Project Title
 SkySnap: Your Personal Weather Expert
